@@ -87,4 +87,6 @@ And you can run `cactus build` to compile the website using the same tree struct
 ```
 
 Let try deploying with `Now`.
+`cd _public && now --public`
+Here is the link: <https://public-hfxpuofntn.now.sh>
 
